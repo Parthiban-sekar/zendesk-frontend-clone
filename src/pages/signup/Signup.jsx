@@ -19,11 +19,11 @@ const Signup = () => {
     const validate = Yup.object({
         firstname: Yup.string()
             .max(15, "Must be less than 15 Characters")
-            .min(4, "Must be at least 6 Characters")
+            .min(4, "Must be at least 4 Characters")
             .required("Required"),
         lastname: Yup.string()
             .max(15, "Must be less than 15 Characters")
-            .min(4, "Must be at least 6 Characters")
+            .min(4, "Must be at least 4 Characters")
             .required("Required"),
         email: Yup.string()
             .email("Email is Invalid")

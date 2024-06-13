@@ -113,8 +113,8 @@ const Login = () => {
                         </div>
                         <div className="modal-body">
                             <h5>Demo student login ID</h5>
-                            <h6 className='mx-5 text-center'> Email : mdnihmath21@gmail.com</h6>
-                           <h6 span className='mx-5 text-center'> password :123456</h6> 
+                            <h6 className='mx-5 text-center'> Email : dreamsparthi10222@gmail.com</h6>
+                           <h6 span className='mx-5 text-center'> password : 123456</h6> 
                         </div>
                         <div className="modal-footer">
                             <button type="button" className="btn btn-danger" data-bs-dismiss="modal">Close</button>
