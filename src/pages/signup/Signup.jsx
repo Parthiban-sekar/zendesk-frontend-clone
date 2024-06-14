@@ -157,7 +157,7 @@ const Signup = () => {
                     <img src={BANNER} className="banner" alt=".." />
                 </div>
             </div>
-            {/* <ToastContainer/> */}
+            <ToastContainer/>
 
             
         </div>
