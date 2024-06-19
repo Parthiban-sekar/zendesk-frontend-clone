@@ -1277,7 +1277,7 @@ export const leaderBoardData = [
     },
     {
         "rank": 59,
-        "name": "SaravanaKumar Mayalagu",
+        "name": "SaravanaKumar Mayalag",
         "batch": "FSD54WD-T",
         "learning": 3.45
     },
