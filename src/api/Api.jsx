@@ -2,7 +2,7 @@ import axios from "axios";
 
 const instance = axios.create({
   // .. congigure axios baseURL
-  baseURL:  "https://zendesk-backend-app.onrender.com"
+  baseURL:  "http://localhost:3005/"
 });
 
-export default instance;
+export default instance;  
